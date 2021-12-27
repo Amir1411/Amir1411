@@ -53,5 +53,5 @@ First forget inspiration. Habit is more dependable. Habit will sustain you wheth
  
 <br/>
 
-<img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=amir1411&show_icons=true&hide_border=true" alt="mridul" /> 
+<img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=amir1411&show_icons=true&hide_border=true" alt="Amir" /> 
       
