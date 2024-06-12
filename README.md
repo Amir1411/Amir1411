@@ -1,23 +1,23 @@
-### Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Amir
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Hey there 👋, I'm <a href="https://github.com/Amir1411">Amir</a></h3>
 
 <hr/>
 
-Hi, I'm Mohd Amir, a Full Stack Developer 🚀 from India, Working Professional, completed Bachelor of Technology,
-Beside's programming, I enjoy eating food, practicing yoga and watching anime.
+<p align="left">A passionate Full Stack Developer 🚀 based in India. I'm a dedicated professional with a Bachelor of Technology degree and a knack for crafting innovative solutions in the digital realm.</p>
+
+<p align="left">💻 In the world of programming, I thrive on the challenges and opportunities that come with being a Full Stack Developer. From frontend design to backend logic, I love diving into every aspect of development to create seamless, user-friendly experiences.</p>
+
+<p align="left">🌟 Beyond the screen, I find joy in the simple pleasures of life. Whether it's savoring delicious cuisine, finding serenity through yoga, or immersing myself in the captivating world of anime, I believe in embracing a well-rounded lifestyle.</p>
 
 <br/>
 <a href="https://www.linkedin.com/in/amir1411/">
-  <img align="left" alt="mriduls LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://leetcode.com/user3321H/">
-  <img align="left" alt="mriduls Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.facebook.com/Usgamir/">
-  <img align="left" alt="mriduls facebook" width="22px" src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" />
+  <img align="left" alt="leetcode" width="22px" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" />
 </a>
 <br/>
 <br/>
+
 <pre>
 
 </pre>
@@ -32,27 +32,25 @@ First forget inspiration. Habit is more dependable. Habit will sustain you wheth
 </pre>
 **Languages and Tools:**  
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://github.com/ReactiveX/rxjs/blob/master/docs_app/assets/Rx_Logo_S.png" alt="android" width="20" height="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,redux,express,nodejs,vscode,github,mongodb,mysql,css,html,tailwind,bootstrap,angular,vue,graphql,jest,npm,yarn,docker,kubernetes,rabbitmq,aws,ubuntu,linux,vite,webpack,babel,git,figma" />
+</p>
 
 <hr/>
 
+## Activity On GitHub
 
-**Talking about Personal Stuffs:**
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Amir1411&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
-- 👨🏽‍💻 I’m currently working on **Javascript, React.js, Redux, Node.js, Angular, MySql, MongoDB, Socket.io**
-
-- 🌱 I am currently learning **WebRTC, Python**. 
-
-- 👯 I’m looking to collaborate on **anything free and open source**.
-
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-
-- 💬Ask me about Javascript, React, Angular and Node JS
-
-- 📫 How to reach me: md.amir14@gmail.com;
+## My Stats:
+<p align="center">
+<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=Amir1411&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir1411&hide_border=true&show_icons=true&theme=gruvbox&bg_color=151515" />
+</p>
  
 <br/>
-
-<img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=amir1411&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Amir" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir1411&layout=compact&theme=buefy&hide_border=true" />
       
