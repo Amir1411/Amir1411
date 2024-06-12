@@ -48,9 +48,16 @@ First forget inspiration. Habit is more dependable. Habit will sustain you wheth
 
 ## My Stats:
 <p align="center">
-<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=Amir1411&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir1411&hide_border=true&show_icons=true&theme=gruvbox&bg_color=151515" />
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Amir1411&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir1411&hide_border=true&show_icons=true&theme=gruvbox&bg_color=151515" />
 </p>
+
+## Top Respositorys
+  <p align="left">
+     <a href="https://github.com/amir1411/debounce-throttle-javascript"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=debounce-throttle-javascript&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="debounce-throttle-javascript"></a>
+    <a href="https://github.com/amir1411/webpack-react-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=webpack-react-project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="webpack-react-project"></a>
+   <a href="https://github.com/amir1411/react-calendar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amir1411&repo=react-calendar&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="react-calendar"></a>
+  </p>
  
 <br/>
       
